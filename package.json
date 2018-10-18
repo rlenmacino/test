@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://rlenmacino.github.io/test/",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
@@ -16,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/rlenmacino/test/issues"
   },
-  "homepage": "https://github.com/rlenmacino/test#readme",
+  "homepage": "https://github.com/rlenmacino/test-3",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
